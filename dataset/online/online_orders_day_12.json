@@ -1,0 +1,3238 @@
+[
+  {
+    "order_id": "ON120001",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C105",
+      "name": "Customer_106",
+      "email": "cust106@gmail.com",
+      "phone": "9000000105"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1152",
+        "product_name": "product sku1152",
+        "category": "toys",
+        "brand": "BOOKWORLD",
+        "quantity": 3,
+        "amount": 5397
+      },
+      {
+        "sku_id": "SKU1205",
+        "product_name": "product sku1205",
+        "category": "books",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 2223
+      },
+      {
+        "sku_id": "SKU1027",
+        "product_name": "product sku1027",
+        "category": "electronics",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 8244
+      },
+      {
+        "sku_id": "SKU1100",
+        "product_name": "product sku1100",
+        "category": "appliances",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 5250
+      }
+    ]
+  },
+  {
+    "order_id": "ON120002",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Net Banking",
+    "customer": {
+      "customer_id": "C719",
+      "name": "OnlineCustomer_719",
+      "email": "online719@gmail.com",
+      "phone": "+91-9100000719"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1087",
+        "product_name": "product sku1087",
+        "category": "books",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 9761
+      },
+      {
+        "sku_id": "SKU1202",
+        "product_name": "product sku1202",
+        "category": "books",
+        "brand": "COMFORTSEAT",
+        "quantity": 1,
+        "amount": 6847
+      },
+      {
+        "sku_id": "SKU1174",
+        "product_name": "product sku1174",
+        "category": "fashion",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 8805
+      },
+      {
+        "sku_id": "SKU1086",
+        "product_name": "product sku1086",
+        "category": "appliances",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 670
+      }
+    ]
+  },
+  {
+    "order_id": "ON120003",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C1039",
+      "name": "OnlineCustomer_1039",
+      "email": "online1039@gmail.com",
+      "phone": "+91-9100001039"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1244",
+        "product_name": "product sku1244",
+        "category": "sports",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 6215
+      },
+      {
+        "sku_id": "SKU1189",
+        "product_name": "product sku1189",
+        "category": "books",
+        "brand": "TECHMAX",
+        "quantity": 2,
+        "amount": 6708
+      },
+      {
+        "sku_id": "SKU1185",
+        "product_name": "product sku1185",
+        "category": "fashion",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 7180
+      }
+    ]
+  },
+  {
+    "order_id": "ON120004",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C447",
+      "name": "OnlineCustomer_447",
+      "email": "online447@gmail.com",
+      "phone": "+91-9100000447"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1238",
+        "product_name": "product sku1238",
+        "category": "books",
+        "brand": "SPORTPRO",
+        "quantity": 1,
+        "amount": 7755
+      },
+      {
+        "sku_id": "SKU1226",
+        "product_name": "product sku1226",
+        "category": "books",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 6637
+      }
+    ]
+  },
+  {
+    "order_id": "ON120005",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C83",
+      "name": "Customer_84",
+      "email": "cust84@gmail.com",
+      "phone": "9000000083"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1145",
+        "product_name": "product sku1145",
+        "category": "fashion",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 6664
+      },
+      {
+        "sku_id": "SKU1057",
+        "product_name": "product sku1057",
+        "category": "books",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 3510
+      }
+    ]
+  },
+  {
+    "order_id": "ON120006",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C909",
+      "name": "OnlineCustomer_909",
+      "email": "online909@gmail.com",
+      "phone": "+91-9100000909"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1171",
+        "product_name": "product sku1171",
+        "category": "toys",
+        "brand": "CLICKTECH",
+        "quantity": 1,
+        "amount": 7672
+      }
+    ]
+  },
+  {
+    "order_id": "ON120007",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C732",
+      "name": "OnlineCustomer_732",
+      "email": "online732@gmail.com",
+      "phone": "+91-9100000732"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1033",
+        "product_name": "product sku1033",
+        "category": "fashion",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 3570
+      }
+    ]
+  },
+  {
+    "order_id": "ON120008",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C66",
+      "name": "Customer_67",
+      "email": "cust67@gmail.com",
+      "phone": "9000000066"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1138",
+        "product_name": "product sku1138",
+        "category": "sports",
+        "brand": "COMFORTSEAT",
+        "quantity": 2,
+        "amount": 3804
+      },
+      {
+        "sku_id": "SKU1041",
+        "product_name": "product sku1041",
+        "category": "furniture",
+        "brand": "HOMEEASE",
+        "quantity": 3,
+        "amount": 4462
+      },
+      {
+        "sku_id": "SKU1013",
+        "product_name": "product sku1013",
+        "category": "toys",
+        "brand": "COMFORTSEAT",
+        "quantity": 1,
+        "amount": 4264
+      },
+      {
+        "sku_id": "SKU1064",
+        "product_name": "product sku1064",
+        "category": "appliances",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 7072
+      }
+    ]
+  },
+  {
+    "order_id": "ON120009",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C56",
+      "name": "Customer_57",
+      "email": "cust57@gmail.com",
+      "phone": "9000000056"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1144",
+        "product_name": "product sku1144",
+        "category": "appliances",
+        "brand": "HOMEEASE",
+        "quantity": 3,
+        "amount": 537
+      },
+      {
+        "sku_id": "SKU1102",
+        "product_name": "product sku1102",
+        "category": "fashion",
+        "brand": "BOOKWORLD",
+        "quantity": 3,
+        "amount": 2638
+      },
+      {
+        "sku_id": "SKU1048",
+        "product_name": "product sku1048",
+        "category": "appliances",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 6919
+      },
+      {
+        "sku_id": "SKU1082",
+        "product_name": "product sku1082",
+        "category": "toys",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 5505
+      }
+    ]
+  },
+  {
+    "order_id": "ON120010",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C279",
+      "name": "Customer_280",
+      "email": "cust280@gmail.com",
+      "phone": "9000000279"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1062",
+        "product_name": "product sku1062",
+        "category": "books",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 6767
+      },
+      {
+        "sku_id": "SKU1220",
+        "product_name": "product sku1220",
+        "category": "appliances",
+        "brand": "FITLIFE",
+        "quantity": 3,
+        "amount": 9604
+      },
+      {
+        "sku_id": "SKU1086",
+        "product_name": "product sku1086",
+        "category": "appliances",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 4520
+      }
+    ]
+  },
+  {
+    "order_id": "ON120011",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C238",
+      "name": "Customer_239",
+      "email": "cust239@gmail.com",
+      "phone": "9000000238"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1065",
+        "product_name": "product sku1065",
+        "category": "furniture",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 5595
+      }
+    ]
+  },
+  {
+    "order_id": "ON120012",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C1084",
+      "name": "OnlineCustomer_1084",
+      "email": "online1084@gmail.com",
+      "phone": "+91-9100001084"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1082",
+        "product_name": "product sku1082",
+        "category": "furniture",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 5459
+      }
+    ]
+  },
+  {
+    "order_id": "ON120013",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C747",
+      "name": "OnlineCustomer_747",
+      "email": "online747@gmail.com",
+      "phone": "+91-9100000747"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1204",
+        "product_name": "product sku1204",
+        "category": "electronics",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 7451
+      },
+      {
+        "sku_id": "SKU1140",
+        "product_name": "product sku1140",
+        "category": "fashion",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 7002
+      },
+      {
+        "sku_id": "SKU1007",
+        "product_name": "product sku1007",
+        "category": "sports",
+        "brand": "COMFORTSEAT",
+        "quantity": 1,
+        "amount": 4246
+      }
+    ]
+  },
+  {
+    "order_id": "ON120014",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C266",
+      "name": "Customer_267",
+      "email": "cust267@gmail.com",
+      "phone": "9000000266"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1031",
+        "product_name": "product sku1031",
+        "category": "furniture",
+        "brand": "CLICKTECH",
+        "quantity": 2,
+        "amount": 1060
+      },
+      {
+        "sku_id": "SKU1230",
+        "product_name": "product sku1230",
+        "category": "electronics",
+        "brand": "BOOKWORLD",
+        "quantity": 3,
+        "amount": 7074
+      }
+    ]
+  },
+  {
+    "order_id": "ON120015",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C427",
+      "name": "OnlineCustomer_427",
+      "email": "online427@gmail.com",
+      "phone": "+91-9100000427"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1138",
+        "product_name": "product sku1138",
+        "category": "toys",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 9093
+      },
+      {
+        "sku_id": "SKU1198",
+        "product_name": "product sku1198",
+        "category": "books",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 8643
+      }
+    ]
+  },
+  {
+    "order_id": "ON120016",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C156",
+      "name": "Customer_157",
+      "email": "cust157@gmail.com",
+      "phone": "9000000156"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1205",
+        "product_name": "product sku1205",
+        "category": "furniture",
+        "brand": "FITLIFE",
+        "quantity": 3,
+        "amount": 6435
+      },
+      {
+        "sku_id": "SKU1204",
+        "product_name": "product sku1204",
+        "category": "books",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 2353
+      },
+      {
+        "sku_id": "SKU1121",
+        "product_name": "product sku1121",
+        "category": "sports",
+        "brand": "FASHIONHUB",
+        "quantity": 2,
+        "amount": 5422
+      }
+    ]
+  },
+  {
+    "order_id": "ON120017",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Net Banking",
+    "customer": {
+      "customer_id": "C874",
+      "name": "OnlineCustomer_874",
+      "email": "online874@gmail.com",
+      "phone": "+91-9100000874"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1060",
+        "product_name": "product sku1060",
+        "category": "furniture",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 9621
+      }
+    ]
+  },
+  {
+    "order_id": "ON120018",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C13",
+      "name": "Customer_14",
+      "email": "cust14@gmail.com",
+      "phone": "9000000013"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1001",
+        "product_name": "product sku1001",
+        "category": "electronics",
+        "brand": "BOOKWORLD",
+        "quantity": 1,
+        "amount": 1177
+      },
+      {
+        "sku_id": "SKU1045",
+        "product_name": "product sku1045",
+        "category": "fashion",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 6045
+      },
+      {
+        "sku_id": "SKU1175",
+        "product_name": "product sku1175",
+        "category": "electronics",
+        "brand": "COMFORTSEAT",
+        "quantity": 1,
+        "amount": 2910
+      },
+      {
+        "sku_id": "SKU1174",
+        "product_name": "product sku1174",
+        "category": "furniture",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 8513
+      }
+    ]
+  },
+  {
+    "order_id": "ON120019",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C609",
+      "name": "OnlineCustomer_609",
+      "email": "online609@gmail.com",
+      "phone": "+91-9100000609"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1242",
+        "product_name": "product sku1242",
+        "category": "appliances",
+        "brand": "CLICKTECH",
+        "quantity": 2,
+        "amount": 5012
+      },
+      {
+        "sku_id": "SKU1135",
+        "product_name": "product sku1135",
+        "category": "books",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 1616
+      },
+      {
+        "sku_id": "SKU1014",
+        "product_name": "product sku1014",
+        "category": "toys",
+        "brand": "FITLIFE",
+        "quantity": 2,
+        "amount": 7300
+      }
+    ]
+  },
+  {
+    "order_id": "ON120020",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C955",
+      "name": "OnlineCustomer_955",
+      "email": "online955@gmail.com",
+      "phone": "+91-9100000955"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1166",
+        "product_name": "product sku1166",
+        "category": "sports",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 6324
+      },
+      {
+        "sku_id": "SKU1043",
+        "product_name": "product sku1043",
+        "category": "books",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 5018
+      },
+      {
+        "sku_id": "SKU1043",
+        "product_name": "product sku1043",
+        "category": "toys",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 7024
+      }
+    ]
+  },
+  {
+    "order_id": "ON120021",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C985",
+      "name": "OnlineCustomer_985",
+      "email": "online985@gmail.com",
+      "phone": "+91-9100000985"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1074",
+        "product_name": "product sku1074",
+        "category": "sports",
+        "brand": "HOMEEASE",
+        "quantity": 1,
+        "amount": 719
+      },
+      {
+        "sku_id": "SKU1146",
+        "product_name": "product sku1146",
+        "category": "appliances",
+        "brand": "SPORTPRO",
+        "quantity": 1,
+        "amount": 4397
+      },
+      {
+        "sku_id": "SKU1176",
+        "product_name": "product sku1176",
+        "category": "fashion",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 9263
+      }
+    ]
+  },
+  {
+    "order_id": "ON120022",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C21",
+      "name": "Customer_22",
+      "email": "cust22@gmail.com",
+      "phone": "9000000021"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1012",
+        "product_name": "product sku1012",
+        "category": "toys",
+        "brand": "CLICKTECH",
+        "quantity": 2,
+        "amount": 5998
+      },
+      {
+        "sku_id": "SKU1114",
+        "product_name": "product sku1114",
+        "category": "fashion",
+        "brand": "COMFORTSEAT",
+        "quantity": 1,
+        "amount": 2704
+      },
+      {
+        "sku_id": "SKU1102",
+        "product_name": "product sku1102",
+        "category": "books",
+        "brand": "CLICKTECH",
+        "quantity": 2,
+        "amount": 9208
+      },
+      {
+        "sku_id": "SKU1087",
+        "product_name": "product sku1087",
+        "category": "fashion",
+        "brand": "CLICKTECH",
+        "quantity": 3,
+        "amount": 8041
+      }
+    ]
+  },
+  {
+    "order_id": "ON120023",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Net Banking",
+    "customer": {
+      "customer_id": "C195",
+      "name": "Customer_196",
+      "email": "cust196@gmail.com",
+      "phone": "9000000195"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1011",
+        "product_name": "product sku1011",
+        "category": "sports",
+        "brand": "CLICKTECH",
+        "quantity": 3,
+        "amount": 7582
+      },
+      {
+        "sku_id": "SKU1127",
+        "product_name": "product sku1127",
+        "category": "fashion",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 2666
+      },
+      {
+        "sku_id": "SKU1007",
+        "product_name": "product sku1007",
+        "category": "fashion",
+        "brand": "COMFORTSEAT",
+        "quantity": 2,
+        "amount": 1706
+      }
+    ]
+  },
+  {
+    "order_id": "ON120024",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C267",
+      "name": "Customer_268",
+      "email": "cust268@gmail.com",
+      "phone": "9000000267"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1030",
+        "product_name": "product sku1030",
+        "category": "toys",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 6280
+      }
+    ]
+  },
+  {
+    "order_id": "ON120025",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Net Banking",
+    "customer": {
+      "customer_id": "C487",
+      "name": "OnlineCustomer_487",
+      "email": "online487@gmail.com",
+      "phone": "+91-9100000487"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1180",
+        "product_name": "product sku1180",
+        "category": "furniture",
+        "brand": "SPORTPRO",
+        "quantity": 1,
+        "amount": 4901
+      },
+      {
+        "sku_id": "SKU1147",
+        "product_name": "product sku1147",
+        "category": "sports",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 6078
+      }
+    ]
+  },
+  {
+    "order_id": "ON120026",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C330",
+      "name": "Customer_331",
+      "email": "cust331@gmail.com",
+      "phone": "9000000330"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1087",
+        "product_name": "product sku1087",
+        "category": "fashion",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 2546
+      }
+    ]
+  },
+  {
+    "order_id": "ON120027",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C879",
+      "name": "OnlineCustomer_879",
+      "email": "online879@gmail.com",
+      "phone": "+91-9100000879"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1205",
+        "product_name": "product sku1205",
+        "category": "fashion",
+        "brand": "SPORTPRO",
+        "quantity": 1,
+        "amount": 5127
+      },
+      {
+        "sku_id": "SKU1153",
+        "product_name": "product sku1153",
+        "category": "furniture",
+        "brand": "TECHMAX",
+        "quantity": 2,
+        "amount": 5976
+      }
+    ]
+  },
+  {
+    "order_id": "ON120028",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C619",
+      "name": "OnlineCustomer_619",
+      "email": "online619@gmail.com",
+      "phone": "+91-9100000619"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1202",
+        "product_name": "product sku1202",
+        "category": "appliances",
+        "brand": "COMFORTSEAT",
+        "quantity": 2,
+        "amount": 9696
+      }
+    ]
+  },
+  {
+    "order_id": "ON120029",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C487",
+      "name": "OnlineCustomer_487",
+      "email": "online487@gmail.com",
+      "phone": "+91-9100000487"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1040",
+        "product_name": "product sku1040",
+        "category": "books",
+        "brand": "COMFORTSEAT",
+        "quantity": 2,
+        "amount": 1806
+      },
+      {
+        "sku_id": "SKU1132",
+        "product_name": "product sku1132",
+        "category": "fashion",
+        "brand": "HOMEEASE",
+        "quantity": 3,
+        "amount": 1648
+      },
+      {
+        "sku_id": "SKU1045",
+        "product_name": "product sku1045",
+        "category": "appliances",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 7865
+      },
+      {
+        "sku_id": "SKU1060",
+        "product_name": "product sku1060",
+        "category": "toys",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 8054
+      }
+    ]
+  },
+  {
+    "order_id": "ON120030",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C351",
+      "name": "Customer_352",
+      "email": "cust352@gmail.com",
+      "phone": "9000000351"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1076",
+        "product_name": "product sku1076",
+        "category": "furniture",
+        "brand": "FITLIFE",
+        "quantity": 1,
+        "amount": 6113
+      },
+      {
+        "sku_id": "SKU1220",
+        "product_name": "product sku1220",
+        "category": "appliances",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 8616
+      },
+      {
+        "sku_id": "SKU1042",
+        "product_name": "product sku1042",
+        "category": "fashion",
+        "brand": "FASHIONHUB",
+        "quantity": 2,
+        "amount": 8307
+      }
+    ]
+  },
+  {
+    "order_id": "ON120031",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C691",
+      "name": "OnlineCustomer_691",
+      "email": "online691@gmail.com",
+      "phone": "+91-9100000691"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1192",
+        "product_name": "product sku1192",
+        "category": "sports",
+        "brand": "FITLIFE",
+        "quantity": 1,
+        "amount": 8995
+      },
+      {
+        "sku_id": "SKU1221",
+        "product_name": "product sku1221",
+        "category": "sports",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 9861
+      },
+      {
+        "sku_id": "SKU1012",
+        "product_name": "product sku1012",
+        "category": "toys",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 9248
+      },
+      {
+        "sku_id": "SKU1165",
+        "product_name": "product sku1165",
+        "category": "electronics",
+        "brand": "FITLIFE",
+        "quantity": 1,
+        "amount": 5300
+      }
+    ]
+  },
+  {
+    "order_id": "ON120032",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C1190",
+      "name": "OnlineCustomer_1190",
+      "email": "online1190@gmail.com",
+      "phone": "+91-9100001190"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1246",
+        "product_name": "product sku1246",
+        "category": "electronics",
+        "brand": "TECHMAX",
+        "quantity": 3,
+        "amount": 1316
+      },
+      {
+        "sku_id": "SKU1145",
+        "product_name": "product sku1145",
+        "category": "appliances",
+        "brand": "TECHMAX",
+        "quantity": 3,
+        "amount": 1578
+      },
+      {
+        "sku_id": "SKU1107",
+        "product_name": "product sku1107",
+        "category": "sports",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 4236
+      },
+      {
+        "sku_id": "SKU1122",
+        "product_name": "product sku1122",
+        "category": "books",
+        "brand": "COMFORTSEAT",
+        "quantity": 2,
+        "amount": 3249
+      }
+    ]
+  },
+  {
+    "order_id": "ON120033",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C782",
+      "name": "OnlineCustomer_782",
+      "email": "online782@gmail.com",
+      "phone": "+91-9100000782"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1032",
+        "product_name": "product sku1032",
+        "category": "appliances",
+        "brand": "FITLIFE",
+        "quantity": 3,
+        "amount": 3019
+      },
+      {
+        "sku_id": "SKU1236",
+        "product_name": "product sku1236",
+        "category": "electronics",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 4283
+      }
+    ]
+  },
+  {
+    "order_id": "ON120034",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C173",
+      "name": "Customer_174",
+      "email": "cust174@gmail.com",
+      "phone": "9000000173"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1236",
+        "product_name": "product sku1236",
+        "category": "toys",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 5940
+      },
+      {
+        "sku_id": "SKU1037",
+        "product_name": "product sku1037",
+        "category": "books",
+        "brand": "HOMEEASE",
+        "quantity": 1,
+        "amount": 2362
+      },
+      {
+        "sku_id": "SKU1192",
+        "product_name": "product sku1192",
+        "category": "books",
+        "brand": "COMFORTSEAT",
+        "quantity": 1,
+        "amount": 6988
+      }
+    ]
+  },
+  {
+    "order_id": "ON120035",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C134",
+      "name": "Customer_135",
+      "email": "cust135@gmail.com",
+      "phone": "9000000134"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1125",
+        "product_name": "product sku1125",
+        "category": "toys",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 9864
+      },
+      {
+        "sku_id": "SKU1248",
+        "product_name": "product sku1248",
+        "category": "toys",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 1577
+      },
+      {
+        "sku_id": "SKU1133",
+        "product_name": "product sku1133",
+        "category": "appliances",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 4149
+      }
+    ]
+  },
+  {
+    "order_id": "ON120036",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C675",
+      "name": "OnlineCustomer_675",
+      "email": "online675@gmail.com",
+      "phone": "+91-9100000675"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1114",
+        "product_name": "product sku1114",
+        "category": "toys",
+        "brand": "FITLIFE",
+        "quantity": 1,
+        "amount": 3087
+      },
+      {
+        "sku_id": "SKU1147",
+        "product_name": "product sku1147",
+        "category": "fashion",
+        "brand": "HOMEEASE",
+        "quantity": 3,
+        "amount": 5792
+      },
+      {
+        "sku_id": "SKU1157",
+        "product_name": "product sku1157",
+        "category": "books",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 8385
+      }
+    ]
+  },
+  {
+    "order_id": "ON120037",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C168",
+      "name": "Customer_169",
+      "email": "cust169@gmail.com",
+      "phone": "9000000168"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1063",
+        "product_name": "product sku1063",
+        "category": "toys",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 3222
+      },
+      {
+        "sku_id": "SKU1110",
+        "product_name": "product sku1110",
+        "category": "toys",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 5434
+      },
+      {
+        "sku_id": "SKU1119",
+        "product_name": "product sku1119",
+        "category": "sports",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 5815
+      }
+    ]
+  },
+  {
+    "order_id": "ON120038",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C87",
+      "name": "Customer_88",
+      "email": "cust88@gmail.com",
+      "phone": "9000000087"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1036",
+        "product_name": "product sku1036",
+        "category": "fashion",
+        "brand": "TECHMAX",
+        "quantity": 3,
+        "amount": 1121
+      },
+      {
+        "sku_id": "SKU1180",
+        "product_name": "product sku1180",
+        "category": "sports",
+        "brand": "TECHMAX",
+        "quantity": 2,
+        "amount": 5425
+      }
+    ]
+  },
+  {
+    "order_id": "ON120039",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C832",
+      "name": "OnlineCustomer_832",
+      "email": "online832@gmail.com",
+      "phone": "+91-9100000832"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1221",
+        "product_name": "product sku1221",
+        "category": "toys",
+        "brand": "FITLIFE",
+        "quantity": 2,
+        "amount": 2886
+      }
+    ]
+  },
+  {
+    "order_id": "ON120040",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C1030",
+      "name": "OnlineCustomer_1030",
+      "email": "online1030@gmail.com",
+      "phone": "+91-9100001030"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1063",
+        "product_name": "product sku1063",
+        "category": "toys",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 4756
+      },
+      {
+        "sku_id": "SKU1168",
+        "product_name": "product sku1168",
+        "category": "electronics",
+        "brand": "FITLIFE",
+        "quantity": 1,
+        "amount": 4572
+      },
+      {
+        "sku_id": "SKU1031",
+        "product_name": "product sku1031",
+        "category": "books",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 2852
+      },
+      {
+        "sku_id": "SKU1185",
+        "product_name": "product sku1185",
+        "category": "sports",
+        "brand": "TECHMAX",
+        "quantity": 3,
+        "amount": 7592
+      }
+    ]
+  },
+  {
+    "order_id": "ON120041",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C744",
+      "name": "OnlineCustomer_744",
+      "email": "online744@gmail.com",
+      "phone": "+91-9100000744"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1242",
+        "product_name": "product sku1242",
+        "category": "fashion",
+        "brand": "HOMEEASE",
+        "quantity": 3,
+        "amount": 3718
+      },
+      {
+        "sku_id": "SKU1078",
+        "product_name": "product sku1078",
+        "category": "furniture",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 814
+      },
+      {
+        "sku_id": "SKU1070",
+        "product_name": "product sku1070",
+        "category": "appliances",
+        "brand": "HOMEEASE",
+        "quantity": 3,
+        "amount": 3501
+      }
+    ]
+  },
+  {
+    "order_id": "ON120042",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C710",
+      "name": "OnlineCustomer_710",
+      "email": "online710@gmail.com",
+      "phone": "+91-9100000710"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1131",
+        "product_name": "product sku1131",
+        "category": "books",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 7982
+      },
+      {
+        "sku_id": "SKU1050",
+        "product_name": "product sku1050",
+        "category": "furniture",
+        "brand": "CLICKTECH",
+        "quantity": 1,
+        "amount": 4534
+      }
+    ]
+  },
+  {
+    "order_id": "ON120043",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C985",
+      "name": "OnlineCustomer_985",
+      "email": "online985@gmail.com",
+      "phone": "+91-9100000985"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1070",
+        "product_name": "product sku1070",
+        "category": "appliances",
+        "brand": "HOMEEASE",
+        "quantity": 3,
+        "amount": 3911
+      },
+      {
+        "sku_id": "SKU1012",
+        "product_name": "product sku1012",
+        "category": "furniture",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 5582
+      }
+    ]
+  },
+  {
+    "order_id": "ON120044",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C366",
+      "name": "Customer_367",
+      "email": "cust367@gmail.com",
+      "phone": "9000000366"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1075",
+        "product_name": "product sku1075",
+        "category": "toys",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 854
+      },
+      {
+        "sku_id": "SKU1162",
+        "product_name": "product sku1162",
+        "category": "fashion",
+        "brand": "BOOKWORLD",
+        "quantity": 1,
+        "amount": 8014
+      }
+    ]
+  },
+  {
+    "order_id": "ON120045",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C112",
+      "name": "Customer_113",
+      "email": "cust113@gmail.com",
+      "phone": "9000000112"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1058",
+        "product_name": "product sku1058",
+        "category": "appliances",
+        "brand": "TECHMAX",
+        "quantity": 2,
+        "amount": 1689
+      },
+      {
+        "sku_id": "SKU1102",
+        "product_name": "product sku1102",
+        "category": "electronics",
+        "brand": "COMFORTSEAT",
+        "quantity": 1,
+        "amount": 2663
+      }
+    ]
+  },
+  {
+    "order_id": "ON120046",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C196",
+      "name": "Customer_197",
+      "email": "cust197@gmail.com",
+      "phone": "9000000196"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1124",
+        "product_name": "product sku1124",
+        "category": "sports",
+        "brand": "CLICKTECH",
+        "quantity": 2,
+        "amount": 6340
+      }
+    ]
+  },
+  {
+    "order_id": "ON120047",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C1094",
+      "name": "OnlineCustomer_1094",
+      "email": "online1094@gmail.com",
+      "phone": "+91-9100001094"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1013",
+        "product_name": "product sku1013",
+        "category": "toys",
+        "brand": "FITLIFE",
+        "quantity": 3,
+        "amount": 1357
+      },
+      {
+        "sku_id": "SKU1069",
+        "product_name": "product sku1069",
+        "category": "furniture",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 5401
+      },
+      {
+        "sku_id": "SKU1242",
+        "product_name": "product sku1242",
+        "category": "appliances",
+        "brand": "FASHIONHUB",
+        "quantity": 2,
+        "amount": 1666
+      },
+      {
+        "sku_id": "SKU1020",
+        "product_name": "product sku1020",
+        "category": "fashion",
+        "brand": "COMFORTSEAT",
+        "quantity": 2,
+        "amount": 6599
+      }
+    ]
+  },
+  {
+    "order_id": "ON120048",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C269",
+      "name": "Customer_270",
+      "email": "cust270@gmail.com",
+      "phone": "9000000269"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1059",
+        "product_name": "product sku1059",
+        "category": "fashion",
+        "brand": "TECHMAX",
+        "quantity": 2,
+        "amount": 8968
+      },
+      {
+        "sku_id": "SKU1019",
+        "product_name": "product sku1019",
+        "category": "fashion",
+        "brand": "CLICKTECH",
+        "quantity": 1,
+        "amount": 6156
+      },
+      {
+        "sku_id": "SKU1231",
+        "product_name": "product sku1231",
+        "category": "electronics",
+        "brand": "BOOKWORLD",
+        "quantity": 3,
+        "amount": 4157
+      }
+    ]
+  },
+  {
+    "order_id": "ON120049",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C635",
+      "name": "OnlineCustomer_635",
+      "email": "online635@gmail.com",
+      "phone": "+91-9100000635"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1238",
+        "product_name": "product sku1238",
+        "category": "toys",
+        "brand": "CLICKTECH",
+        "quantity": 3,
+        "amount": 8207
+      },
+      {
+        "sku_id": "SKU1028",
+        "product_name": "product sku1028",
+        "category": "appliances",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 6364
+      },
+      {
+        "sku_id": "SKU1127",
+        "product_name": "product sku1127",
+        "category": "electronics",
+        "brand": "FASHIONHUB",
+        "quantity": 2,
+        "amount": 4278
+      }
+    ]
+  },
+  {
+    "order_id": "ON120050",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C1054",
+      "name": "OnlineCustomer_1054",
+      "email": "online1054@gmail.com",
+      "phone": "+91-9100001054"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1071",
+        "product_name": "product sku1071",
+        "category": "books",
+        "brand": "HOMEEASE",
+        "quantity": 1,
+        "amount": 7554
+      },
+      {
+        "sku_id": "SKU1030",
+        "product_name": "product sku1030",
+        "category": "sports",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 1719
+      }
+    ]
+  },
+  {
+    "order_id": "ON120051",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C1098",
+      "name": "OnlineCustomer_1098",
+      "email": "online1098@gmail.com",
+      "phone": "+91-9100001098"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1228",
+        "product_name": "product sku1228",
+        "category": "sports",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 5676
+      },
+      {
+        "sku_id": "SKU1033",
+        "product_name": "product sku1033",
+        "category": "electronics",
+        "brand": "TECHMAX",
+        "quantity": 2,
+        "amount": 7640
+      },
+      {
+        "sku_id": "SKU1240",
+        "product_name": "product sku1240",
+        "category": "electronics",
+        "brand": "BOOKWORLD",
+        "quantity": 1,
+        "amount": 5237
+      }
+    ]
+  },
+  {
+    "order_id": "ON120052",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C112",
+      "name": "Customer_113",
+      "email": "cust113@gmail.com",
+      "phone": "9000000112"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1155",
+        "product_name": "product sku1155",
+        "category": "fashion",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 6373
+      },
+      {
+        "sku_id": "SKU1170",
+        "product_name": "product sku1170",
+        "category": "sports",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 7797
+      },
+      {
+        "sku_id": "SKU1117",
+        "product_name": "product sku1117",
+        "category": "electronics",
+        "brand": "FITLIFE",
+        "quantity": 1,
+        "amount": 4035
+      }
+    ]
+  },
+  {
+    "order_id": "ON120053",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C865",
+      "name": "OnlineCustomer_865",
+      "email": "online865@gmail.com",
+      "phone": "+91-9100000865"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1233",
+        "product_name": "product sku1233",
+        "category": "fashion",
+        "brand": "TECHMAX",
+        "quantity": 3,
+        "amount": 1121
+      }
+    ]
+  },
+  {
+    "order_id": "ON120054",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C90",
+      "name": "Customer_91",
+      "email": "cust91@gmail.com",
+      "phone": "9000000090"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1234",
+        "product_name": "product sku1234",
+        "category": "appliances",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 2073
+      }
+    ]
+  },
+  {
+    "order_id": "ON120055",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C443",
+      "name": "OnlineCustomer_443",
+      "email": "online443@gmail.com",
+      "phone": "+91-9100000443"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1124",
+        "product_name": "product sku1124",
+        "category": "toys",
+        "brand": "CLICKTECH",
+        "quantity": 3,
+        "amount": 3893
+      },
+      {
+        "sku_id": "SKU1009",
+        "product_name": "product sku1009",
+        "category": "appliances",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 2377
+      }
+    ]
+  },
+  {
+    "order_id": "ON120056",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C497",
+      "name": "OnlineCustomer_497",
+      "email": "online497@gmail.com",
+      "phone": "+91-9100000497"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1104",
+        "product_name": "product sku1104",
+        "category": "fashion",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 9276
+      }
+    ]
+  },
+  {
+    "order_id": "ON120057",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C721",
+      "name": "OnlineCustomer_721",
+      "email": "online721@gmail.com",
+      "phone": "+91-9100000721"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1135",
+        "product_name": "product sku1135",
+        "category": "toys",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 1249
+      }
+    ]
+  },
+  {
+    "order_id": "ON120058",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C72",
+      "name": "Customer_73",
+      "email": "cust73@gmail.com",
+      "phone": "9000000072"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1085",
+        "product_name": "product sku1085",
+        "category": "books",
+        "brand": "COMFORTSEAT",
+        "quantity": 2,
+        "amount": 8341
+      },
+      {
+        "sku_id": "SKU1045",
+        "product_name": "product sku1045",
+        "category": "fashion",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 8350
+      },
+      {
+        "sku_id": "SKU1243",
+        "product_name": "product sku1243",
+        "category": "furniture",
+        "brand": "SPORTPRO",
+        "quantity": 1,
+        "amount": 529
+      },
+      {
+        "sku_id": "SKU1185",
+        "product_name": "product sku1185",
+        "category": "sports",
+        "brand": "CLICKTECH",
+        "quantity": 3,
+        "amount": 5257
+      }
+    ]
+  },
+  {
+    "order_id": "ON120059",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Net Banking",
+    "customer": {
+      "customer_id": "C316",
+      "name": "Customer_317",
+      "email": "cust317@gmail.com",
+      "phone": "9000000316"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1117",
+        "product_name": "product sku1117",
+        "category": "furniture",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 5132
+      },
+      {
+        "sku_id": "SKU1004",
+        "product_name": "product sku1004",
+        "category": "books",
+        "brand": "HOMEEASE",
+        "quantity": 3,
+        "amount": 971
+      }
+    ]
+  },
+  {
+    "order_id": "ON120060",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C454",
+      "name": "OnlineCustomer_454",
+      "email": "online454@gmail.com",
+      "phone": "+91-9100000454"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1196",
+        "product_name": "product sku1196",
+        "category": "books",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 9833
+      }
+    ]
+  },
+  {
+    "order_id": "ON120061",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Net Banking",
+    "customer": {
+      "customer_id": "C211",
+      "name": "Customer_212",
+      "email": "cust212@gmail.com",
+      "phone": "9000000211"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1088",
+        "product_name": "product sku1088",
+        "category": "appliances",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 8060
+      },
+      {
+        "sku_id": "SKU1228",
+        "product_name": "product sku1228",
+        "category": "electronics",
+        "brand": "FITLIFE",
+        "quantity": 2,
+        "amount": 8377
+      },
+      {
+        "sku_id": "SKU1067",
+        "product_name": "product sku1067",
+        "category": "fashion",
+        "brand": "TECHMAX",
+        "quantity": 2,
+        "amount": 6708
+      }
+    ]
+  },
+  {
+    "order_id": "ON120062",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C1054",
+      "name": "OnlineCustomer_1054",
+      "email": "online1054@gmail.com",
+      "phone": "+91-9100001054"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1115",
+        "product_name": "product sku1115",
+        "category": "appliances",
+        "brand": "CLICKTECH",
+        "quantity": 3,
+        "amount": 6031
+      },
+      {
+        "sku_id": "SKU1195",
+        "product_name": "product sku1195",
+        "category": "books",
+        "brand": "CLICKTECH",
+        "quantity": 1,
+        "amount": 7462
+      },
+      {
+        "sku_id": "SKU1077",
+        "product_name": "product sku1077",
+        "category": "appliances",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 6252
+      },
+      {
+        "sku_id": "SKU1171",
+        "product_name": "product sku1171",
+        "category": "fashion",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 3895
+      }
+    ]
+  },
+  {
+    "order_id": "ON120063",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C509",
+      "name": "OnlineCustomer_509",
+      "email": "online509@gmail.com",
+      "phone": "+91-9100000509"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1128",
+        "product_name": "product sku1128",
+        "category": "electronics",
+        "brand": "SPORTPRO",
+        "quantity": 1,
+        "amount": 2901
+      }
+    ]
+  },
+  {
+    "order_id": "ON120064",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C66",
+      "name": "Customer_67",
+      "email": "cust67@gmail.com",
+      "phone": "9000000066"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1089",
+        "product_name": "product sku1089",
+        "category": "fashion",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 5927
+      },
+      {
+        "sku_id": "SKU1194",
+        "product_name": "product sku1194",
+        "category": "toys",
+        "brand": "HOMEEASE",
+        "quantity": 1,
+        "amount": 8195
+      }
+    ]
+  },
+  {
+    "order_id": "ON120065",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C976",
+      "name": "OnlineCustomer_976",
+      "email": "online976@gmail.com",
+      "phone": "+91-9100000976"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1203",
+        "product_name": "product sku1203",
+        "category": "furniture",
+        "brand": "TECHMAX",
+        "quantity": 3,
+        "amount": 3777
+      },
+      {
+        "sku_id": "SKU1025",
+        "product_name": "product sku1025",
+        "category": "books",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 9629
+      },
+      {
+        "sku_id": "SKU1123",
+        "product_name": "product sku1123",
+        "category": "electronics",
+        "brand": "COMFORTSEAT",
+        "quantity": 2,
+        "amount": 2265
+      },
+      {
+        "sku_id": "SKU1095",
+        "product_name": "product sku1095",
+        "category": "appliances",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 3018
+      }
+    ]
+  },
+  {
+    "order_id": "ON120066",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C211",
+      "name": "Customer_212",
+      "email": "cust212@gmail.com",
+      "phone": "9000000211"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1067",
+        "product_name": "product sku1067",
+        "category": "sports",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 6643
+      },
+      {
+        "sku_id": "SKU1244",
+        "product_name": "product sku1244",
+        "category": "toys",
+        "brand": "FITLIFE",
+        "quantity": 2,
+        "amount": 5763
+      }
+    ]
+  },
+  {
+    "order_id": "ON120067",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Net Banking",
+    "customer": {
+      "customer_id": "C118",
+      "name": "Customer_119",
+      "email": "cust119@gmail.com",
+      "phone": "9000000118"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1075",
+        "product_name": "product sku1075",
+        "category": "fashion",
+        "brand": "TECHMAX",
+        "quantity": 3,
+        "amount": 1097
+      },
+      {
+        "sku_id": "SKU1170",
+        "product_name": "product sku1170",
+        "category": "fashion",
+        "brand": "HOMEEASE",
+        "quantity": 3,
+        "amount": 8626
+      },
+      {
+        "sku_id": "SKU1102",
+        "product_name": "product sku1102",
+        "category": "sports",
+        "brand": "SPORTPRO",
+        "quantity": 1,
+        "amount": 9026
+      }
+    ]
+  },
+  {
+    "order_id": "ON120068",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C979",
+      "name": "OnlineCustomer_979",
+      "email": "online979@gmail.com",
+      "phone": "+91-9100000979"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1079",
+        "product_name": "product sku1079",
+        "category": "books",
+        "brand": "CLICKTECH",
+        "quantity": 2,
+        "amount": 4015
+      },
+      {
+        "sku_id": "SKU1003",
+        "product_name": "product sku1003",
+        "category": "furniture",
+        "brand": "FITLIFE",
+        "quantity": 1,
+        "amount": 9120
+      }
+    ]
+  },
+  {
+    "order_id": "ON120069",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C121",
+      "name": "Customer_122",
+      "email": "cust122@gmail.com",
+      "phone": "9000000121"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1007",
+        "product_name": "product sku1007",
+        "category": "fashion",
+        "brand": "CLICKTECH",
+        "quantity": 2,
+        "amount": 4160
+      }
+    ]
+  },
+  {
+    "order_id": "ON120070",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Net Banking",
+    "customer": {
+      "customer_id": "C322",
+      "name": "Customer_323",
+      "email": "cust323@gmail.com",
+      "phone": "9000000322"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1158",
+        "product_name": "product sku1158",
+        "category": "furniture",
+        "brand": "TECHMAX",
+        "quantity": 2,
+        "amount": 5054
+      },
+      {
+        "sku_id": "SKU1027",
+        "product_name": "product sku1027",
+        "category": "books",
+        "brand": "FASHIONHUB",
+        "quantity": 2,
+        "amount": 4947
+      },
+      {
+        "sku_id": "SKU1105",
+        "product_name": "product sku1105",
+        "category": "toys",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 8888
+      }
+    ]
+  },
+  {
+    "order_id": "ON120071",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C1016",
+      "name": "OnlineCustomer_1016",
+      "email": "online1016@gmail.com",
+      "phone": "+91-9100001016"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1091",
+        "product_name": "product sku1091",
+        "category": "electronics",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 2880
+      },
+      {
+        "sku_id": "SKU1086",
+        "product_name": "product sku1086",
+        "category": "furniture",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 7122
+      }
+    ]
+  },
+  {
+    "order_id": "ON120072",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C8",
+      "name": "Customer_9",
+      "email": "cust9@gmail.com",
+      "phone": "9000000008"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1032",
+        "product_name": "product sku1032",
+        "category": "furniture",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 4177
+      },
+      {
+        "sku_id": "SKU1229",
+        "product_name": "product sku1229",
+        "category": "appliances",
+        "brand": "TECHMAX",
+        "quantity": 2,
+        "amount": 6762
+      }
+    ]
+  },
+  {
+    "order_id": "ON120073",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C958",
+      "name": "OnlineCustomer_958",
+      "email": "online958@gmail.com",
+      "phone": "+91-9100000958"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1218",
+        "product_name": "product sku1218",
+        "category": "toys",
+        "brand": "CLICKTECH",
+        "quantity": 1,
+        "amount": 6388
+      },
+      {
+        "sku_id": "SKU1020",
+        "product_name": "product sku1020",
+        "category": "sports",
+        "brand": "BOOKWORLD",
+        "quantity": 3,
+        "amount": 9738
+      },
+      {
+        "sku_id": "SKU1188",
+        "product_name": "product sku1188",
+        "category": "electronics",
+        "brand": "FITLIFE",
+        "quantity": 1,
+        "amount": 8963
+      },
+      {
+        "sku_id": "SKU1217",
+        "product_name": "product sku1217",
+        "category": "sports",
+        "brand": "COMFORTSEAT",
+        "quantity": 3,
+        "amount": 696
+      }
+    ]
+  },
+  {
+    "order_id": "ON120074",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C142",
+      "name": "Customer_143",
+      "email": "cust143@gmail.com",
+      "phone": "9000000142"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1103",
+        "product_name": "product sku1103",
+        "category": "books",
+        "brand": "TECHMAX",
+        "quantity": 3,
+        "amount": 9384
+      },
+      {
+        "sku_id": "SKU1205",
+        "product_name": "product sku1205",
+        "category": "electronics",
+        "brand": "COMFORTSEAT",
+        "quantity": 1,
+        "amount": 9988
+      },
+      {
+        "sku_id": "SKU1032",
+        "product_name": "product sku1032",
+        "category": "books",
+        "brand": "FITLIFE",
+        "quantity": 2,
+        "amount": 8461
+      },
+      {
+        "sku_id": "SKU1162",
+        "product_name": "product sku1162",
+        "category": "fashion",
+        "brand": "TECHMAX",
+        "quantity": 3,
+        "amount": 9623
+      }
+    ]
+  },
+  {
+    "order_id": "ON120075",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Net Banking",
+    "customer": {
+      "customer_id": "C396",
+      "name": "Customer_397",
+      "email": "cust397@gmail.com",
+      "phone": "9000000396"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1021",
+        "product_name": "product sku1021",
+        "category": "appliances",
+        "brand": "COMFORTSEAT",
+        "quantity": 2,
+        "amount": 6904
+      },
+      {
+        "sku_id": "SKU1156",
+        "product_name": "product sku1156",
+        "category": "appliances",
+        "brand": "FITLIFE",
+        "quantity": 2,
+        "amount": 5463
+      },
+      {
+        "sku_id": "SKU1039",
+        "product_name": "product sku1039",
+        "category": "electronics",
+        "brand": "COMFORTSEAT",
+        "quantity": 1,
+        "amount": 4752
+      },
+      {
+        "sku_id": "SKU1177",
+        "product_name": "product sku1177",
+        "category": "fashion",
+        "brand": "COMFORTSEAT",
+        "quantity": 2,
+        "amount": 9293
+      }
+    ]
+  },
+  {
+    "order_id": "ON120076",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C804",
+      "name": "OnlineCustomer_804",
+      "email": "online804@gmail.com",
+      "phone": "+91-9100000804"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1185",
+        "product_name": "product sku1185",
+        "category": "electronics",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 4345
+      },
+      {
+        "sku_id": "SKU1118",
+        "product_name": "product sku1118",
+        "category": "electronics",
+        "brand": "FITLIFE",
+        "quantity": 2,
+        "amount": 1180
+      }
+    ]
+  },
+  {
+    "order_id": "ON120077",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C150",
+      "name": "Customer_151",
+      "email": "cust151@gmail.com",
+      "phone": "9000000150"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1233",
+        "product_name": "product sku1233",
+        "category": "fashion",
+        "brand": "TECHMAX",
+        "quantity": 3,
+        "amount": 2998
+      }
+    ]
+  },
+  {
+    "order_id": "ON120078",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C779",
+      "name": "OnlineCustomer_779",
+      "email": "online779@gmail.com",
+      "phone": "+91-9100000779"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1235",
+        "product_name": "product sku1235",
+        "category": "appliances",
+        "brand": "CLICKTECH",
+        "quantity": 3,
+        "amount": 4572
+      }
+    ]
+  },
+  {
+    "order_id": "ON120079",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C1175",
+      "name": "OnlineCustomer_1175",
+      "email": "online1175@gmail.com",
+      "phone": "+91-9100001175"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1001",
+        "product_name": "product sku1001",
+        "category": "books",
+        "brand": "CLICKTECH",
+        "quantity": 1,
+        "amount": 4820
+      },
+      {
+        "sku_id": "SKU1116",
+        "product_name": "product sku1116",
+        "category": "toys",
+        "brand": "CLICKTECH",
+        "quantity": 3,
+        "amount": 9803
+      },
+      {
+        "sku_id": "SKU1213",
+        "product_name": "product sku1213",
+        "category": "sports",
+        "brand": "CLICKTECH",
+        "quantity": 1,
+        "amount": 2551
+      },
+      {
+        "sku_id": "SKU1187",
+        "product_name": "product sku1187",
+        "category": "appliances",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 2843
+      }
+    ]
+  },
+  {
+    "order_id": "ON120080",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C995",
+      "name": "OnlineCustomer_995",
+      "email": "online995@gmail.com",
+      "phone": "+91-9100000995"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1143",
+        "product_name": "product sku1143",
+        "category": "fashion",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 1538
+      },
+      {
+        "sku_id": "SKU1248",
+        "product_name": "product sku1248",
+        "category": "electronics",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 1786
+      },
+      {
+        "sku_id": "SKU1071",
+        "product_name": "product sku1071",
+        "category": "electronics",
+        "brand": "HOMEEASE",
+        "quantity": 1,
+        "amount": 8948
+      },
+      {
+        "sku_id": "SKU1026",
+        "product_name": "product sku1026",
+        "category": "electronics",
+        "brand": "CLICKTECH",
+        "quantity": 2,
+        "amount": 659
+      }
+    ]
+  },
+  {
+    "order_id": "ON120081",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C175",
+      "name": "Customer_176",
+      "email": "cust176@gmail.com",
+      "phone": "9000000175"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1040",
+        "product_name": "product sku1040",
+        "category": "appliances",
+        "brand": "CLICKTECH",
+        "quantity": 2,
+        "amount": 536
+      },
+      {
+        "sku_id": "SKU1079",
+        "product_name": "product sku1079",
+        "category": "appliances",
+        "brand": "SPORTPRO",
+        "quantity": 1,
+        "amount": 8730
+      }
+    ]
+  },
+  {
+    "order_id": "ON120082",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C848",
+      "name": "OnlineCustomer_848",
+      "email": "online848@gmail.com",
+      "phone": "+91-9100000848"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1146",
+        "product_name": "product sku1146",
+        "category": "sports",
+        "brand": "FITLIFE",
+        "quantity": 1,
+        "amount": 6830
+      }
+    ]
+  },
+  {
+    "order_id": "ON120083",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C204",
+      "name": "Customer_205",
+      "email": "cust205@gmail.com",
+      "phone": "9000000204"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1169",
+        "product_name": "product sku1169",
+        "category": "toys",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 3984
+      },
+      {
+        "sku_id": "SKU1017",
+        "product_name": "product sku1017",
+        "category": "electronics",
+        "brand": "HOMEEASE",
+        "quantity": 1,
+        "amount": 4803
+      },
+      {
+        "sku_id": "SKU1207",
+        "product_name": "product sku1207",
+        "category": "toys",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 4952
+      }
+    ]
+  },
+  {
+    "order_id": "ON120084",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Wallet",
+    "customer": {
+      "customer_id": "C970",
+      "name": "OnlineCustomer_970",
+      "email": "online970@gmail.com",
+      "phone": "+91-9100000970"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1242",
+        "product_name": "product sku1242",
+        "category": "toys",
+        "brand": "COMFORTSEAT",
+        "quantity": 2,
+        "amount": 5875
+      },
+      {
+        "sku_id": "SKU1169",
+        "product_name": "product sku1169",
+        "category": "books",
+        "brand": "FITLIFE",
+        "quantity": 1,
+        "amount": 7954
+      }
+    ]
+  },
+  {
+    "order_id": "ON120085",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Net Banking",
+    "customer": {
+      "customer_id": "C548",
+      "name": "OnlineCustomer_548",
+      "email": "online548@gmail.com",
+      "phone": "+91-9100000548"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1056",
+        "product_name": "product sku1056",
+        "category": "furniture",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 4731
+      }
+    ]
+  },
+  {
+    "order_id": "ON120086",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C1189",
+      "name": "OnlineCustomer_1189",
+      "email": "online1189@gmail.com",
+      "phone": "+91-9100001189"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1000",
+        "product_name": "product sku1000",
+        "category": "fashion",
+        "brand": "HOMEEASE",
+        "quantity": 1,
+        "amount": 2245
+      },
+      {
+        "sku_id": "SKU1181",
+        "product_name": "product sku1181",
+        "category": "furniture",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 5233
+      },
+      {
+        "sku_id": "SKU1022",
+        "product_name": "product sku1022",
+        "category": "furniture",
+        "brand": "FASHIONHUB",
+        "quantity": 2,
+        "amount": 1660
+      },
+      {
+        "sku_id": "SKU1001",
+        "product_name": "product sku1001",
+        "category": "toys",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 4172
+      }
+    ]
+  },
+  {
+    "order_id": "ON120087",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C873",
+      "name": "OnlineCustomer_873",
+      "email": "online873@gmail.com",
+      "phone": "+91-9100000873"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1089",
+        "product_name": "product sku1089",
+        "category": "furniture",
+        "brand": "CLICKTECH",
+        "quantity": 3,
+        "amount": 9618
+      },
+      {
+        "sku_id": "SKU1011",
+        "product_name": "product sku1011",
+        "category": "appliances",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 4455
+      },
+      {
+        "sku_id": "SKU1022",
+        "product_name": "product sku1022",
+        "category": "sports",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 938
+      },
+      {
+        "sku_id": "SKU1136",
+        "product_name": "product sku1136",
+        "category": "fashion",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 5944
+      }
+    ]
+  },
+  {
+    "order_id": "ON120088",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C833",
+      "name": "OnlineCustomer_833",
+      "email": "online833@gmail.com",
+      "phone": "+91-9100000833"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1042",
+        "product_name": "product sku1042",
+        "category": "appliances",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 1113
+      }
+    ]
+  },
+  {
+    "order_id": "ON120089",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C591",
+      "name": "OnlineCustomer_591",
+      "email": "online591@gmail.com",
+      "phone": "+91-9100000591"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1015",
+        "product_name": "product sku1015",
+        "category": "appliances",
+        "brand": "SPORTPRO",
+        "quantity": 2,
+        "amount": 9036
+      }
+    ]
+  },
+  {
+    "order_id": "ON120090",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C950",
+      "name": "OnlineCustomer_950",
+      "email": "online950@gmail.com",
+      "phone": "+91-9100000950"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1224",
+        "product_name": "product sku1224",
+        "category": "fashion",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 9000
+      },
+      {
+        "sku_id": "SKU1151",
+        "product_name": "product sku1151",
+        "category": "appliances",
+        "brand": "FITLIFE",
+        "quantity": 3,
+        "amount": 1636
+      },
+      {
+        "sku_id": "SKU1119",
+        "product_name": "product sku1119",
+        "category": "electronics",
+        "brand": "HOMEEASE",
+        "quantity": 2,
+        "amount": 2245
+      }
+    ]
+  },
+  {
+    "order_id": "ON120091",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "UPI",
+    "customer": {
+      "customer_id": "C109",
+      "name": "Customer_110",
+      "email": "cust110@gmail.com",
+      "phone": "9000000109"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1204",
+        "product_name": "product sku1204",
+        "category": "books",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 7782
+      },
+      {
+        "sku_id": "SKU1124",
+        "product_name": "product sku1124",
+        "category": "toys",
+        "brand": "HOMEEASE",
+        "quantity": 3,
+        "amount": 8372
+      },
+      {
+        "sku_id": "SKU1080",
+        "product_name": "product sku1080",
+        "category": "fashion",
+        "brand": "FITLIFE",
+        "quantity": 3,
+        "amount": 3732
+      },
+      {
+        "sku_id": "SKU1207",
+        "product_name": "product sku1207",
+        "category": "furniture",
+        "brand": "TECHMAX",
+        "quantity": 2,
+        "amount": 9147
+      }
+    ]
+  },
+  {
+    "order_id": "ON120092",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C226",
+      "name": "Customer_227",
+      "email": "cust227@gmail.com",
+      "phone": "9000000226"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1113",
+        "product_name": "product sku1113",
+        "category": "electronics",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 1098
+      }
+    ]
+  },
+  {
+    "order_id": "ON120093",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C48",
+      "name": "Customer_49",
+      "email": "cust49@gmail.com",
+      "phone": "9000000048"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1236",
+        "product_name": "product sku1236",
+        "category": "electronics",
+        "brand": "FITLIFE",
+        "quantity": 2,
+        "amount": 5312
+      },
+      {
+        "sku_id": "SKU1022",
+        "product_name": "product sku1022",
+        "category": "toys",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 7428
+      }
+    ]
+  },
+  {
+    "order_id": "ON120094",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C572",
+      "name": "OnlineCustomer_572",
+      "email": "online572@gmail.com",
+      "phone": "+91-9100000572"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1059",
+        "product_name": "product sku1059",
+        "category": "furniture",
+        "brand": "FITLIFE",
+        "quantity": 3,
+        "amount": 9751
+      },
+      {
+        "sku_id": "SKU1186",
+        "product_name": "product sku1186",
+        "category": "books",
+        "brand": "BOOKWORLD",
+        "quantity": 2,
+        "amount": 3150
+      }
+    ]
+  },
+  {
+    "order_id": "ON120095",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C1162",
+      "name": "OnlineCustomer_1162",
+      "email": "online1162@gmail.com",
+      "phone": "+91-9100001162"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1122",
+        "product_name": "product sku1122",
+        "category": "toys",
+        "brand": "TECHMAX",
+        "quantity": 1,
+        "amount": 4336
+      }
+    ]
+  },
+  {
+    "order_id": "ON120096",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Cash",
+    "customer": {
+      "customer_id": "C499",
+      "name": "OnlineCustomer_499",
+      "email": "online499@gmail.com",
+      "phone": "+91-9100000499"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1224",
+        "product_name": "product sku1224",
+        "category": "toys",
+        "brand": "TECHMAX",
+        "quantity": 2,
+        "amount": 3450
+      }
+    ]
+  },
+  {
+    "order_id": "ON120097",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C827",
+      "name": "OnlineCustomer_827",
+      "email": "online827@gmail.com",
+      "phone": "+91-9100000827"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1054",
+        "product_name": "product sku1054",
+        "category": "sports",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 2329
+      },
+      {
+        "sku_id": "SKU1245",
+        "product_name": "product sku1245",
+        "category": "sports",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 7977
+      },
+      {
+        "sku_id": "SKU1060",
+        "product_name": "product sku1060",
+        "category": "electronics",
+        "brand": "SPORTPRO",
+        "quantity": 1,
+        "amount": 9804
+      }
+    ]
+  },
+  {
+    "order_id": "ON120098",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C875",
+      "name": "OnlineCustomer_875",
+      "email": "online875@gmail.com",
+      "phone": "+91-9100000875"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1069",
+        "product_name": "product sku1069",
+        "category": "fashion",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 2994
+      },
+      {
+        "sku_id": "SKU1237",
+        "product_name": "product sku1237",
+        "category": "furniture",
+        "brand": "BOOKWORLD",
+        "quantity": 3,
+        "amount": 6662
+      }
+    ]
+  },
+  {
+    "order_id": "ON120099",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C498",
+      "name": "OnlineCustomer_498",
+      "email": "online498@gmail.com",
+      "phone": "+91-9100000498"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1221",
+        "product_name": "product sku1221",
+        "category": "books",
+        "brand": "FASHIONHUB",
+        "quantity": 3,
+        "amount": 7925
+      },
+      {
+        "sku_id": "SKU1169",
+        "product_name": "product sku1169",
+        "category": "electronics",
+        "brand": "FITLIFE",
+        "quantity": 3,
+        "amount": 1781
+      }
+    ]
+  },
+  {
+    "order_id": "ON120100",
+    "order_timestamp": "2026-01-12T00:00:00",
+    "payment_mode": "Debit Card",
+    "customer": {
+      "customer_id": "C560",
+      "name": "OnlineCustomer_560",
+      "email": "online560@gmail.com",
+      "phone": "+91-9100000560"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1202",
+        "product_name": "product sku1202",
+        "category": "electronics",
+        "brand": "SPORTPRO",
+        "quantity": 3,
+        "amount": 6898
+      },
+      {
+        "sku_id": "SKU1112",
+        "product_name": "product sku1112",
+        "category": "electronics",
+        "brand": "FASHIONHUB",
+        "quantity": 1,
+        "amount": 6484
+      }
+    ]
+  }
+]

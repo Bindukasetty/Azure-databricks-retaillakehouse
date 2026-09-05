@@ -1,0 +1,25 @@
+[
+
+  {
+    "order_id": "ON300101",
+    "order_timestamp": "2026-08-02T00:00:00",
+    "payment_mode": "Credit Card",
+    "customer": {
+      "customer_id": "C393",
+      "name": "Customer_39",
+      "email": "cust394@gmail.com",
+      "phone": "9000000393"
+    },
+    "items": [
+      {
+        "sku_id": "SKU1200",
+        "product_name": "product sku1200",
+        "category": "furniture",
+        "brand": "HOMEEASE",
+        "quantity": 1,
+        "amount": 9304
+      }
+    ]
+  }
+]
+  
